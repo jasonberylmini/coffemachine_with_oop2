@@ -1,8 +1,3 @@
-# Create a README.md file
-echo "# Coffee Machine Project" > README.md
-
-# Open the file and edit it manually OR use this command to add content
-echo "
 # Coffee Machine Project
 
 This is an Object-Oriented Programming (OOP) based coffee machine simulation in Python.  
@@ -26,9 +21,3 @@ It allows users to select coffee types, handles transactions, and manages ingred
 
 ## Author
 **Jason Beryl**
-" > README.md
-
-# Add the README file to Git
-git add README.md
-git commit -m "Added README file"
-git push origin main
